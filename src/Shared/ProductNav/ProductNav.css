@@ -1,0 +1,7 @@
+.parent .child:last-child {
+    color: white;
+}
+
+.parent .child:last-child .arrow {
+    display: none;
+}
